@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../introducao-a-javascript-e-logica-de-programacao_4"
+		},
+		{
+			"path": "../../../projetos/sd-010-a-project-playground-functions"
+		},
+		{
+			"path": "../../Bloco_5"
+		},
+		{
+			"path": "../../Bloco_5/5_5"
+		},
+		{
+			"path": "../../../projetos/sd-010-a-project-pixels-art"
+		},
+		{
+			"path": "../../../projetos/sd-010-a-project-todo-list"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bloco_6"
+	}
+}
